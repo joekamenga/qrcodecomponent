@@ -1,13 +1,43 @@
 body{
     background-color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 0%);
+    font-size: 15px;
 }
 @media(min-width: 375px){
     body{
-        font-size: 15px;
+        font-family: [Outfit-Medium];
+        font-weight: 400px;
     }
 }
-@media(max-width: 1440px){
+@media(min-width: 1440px){
     body{
-        font-size: 25px;
+        font-family: [Outfit-Medium];
+        font-weight: 700px;
     }
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container > img{
+    flex: 1;
+}
+.qr{
+    max-width: 100%;
+    height: auto;
+}
+h1{
+    font-size: 11px;
+    text-align: center;
+}
+.space{
+    text-align: right;
+}
+.attribution{
+    font-size: 9px;
+    text-align: right;
+    padding-right: 10px;
+}
+.attribution a{
+    color: hsl(228, 45%, 44%);
 }
