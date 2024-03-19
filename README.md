@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/solutions/new/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-ZR8Te5iolRqr-code-component-iux_sIO_H/solutions/new/)
 - Live Site URL: 
 (https://https://joekamenga.github.io/qrcodecomponent/)
 
