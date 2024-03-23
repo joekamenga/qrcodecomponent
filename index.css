@@ -49,14 +49,14 @@ h1{
     font-weight: lighter;
     text-align: center;
 }
-.space{
-    text-align: right;
-}
 .attribution{
-    font-size: 18px;
+    font-size: 15px;
     text-align: right;
+    word-spacing: 0.5px;
     padding: 15px;
+    margin: 5px;
 }
 .attribution a{
     color: hsl(228, 45%, 44%);
+    height: 100px;
 }
