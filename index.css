@@ -28,14 +28,18 @@ body{
     height: auto;
 }
 h1{
-    font-size: 11px;
+    font-size: 15px;
+    text-align: center;
+}
+.words{
+    font-size: 12px;
     text-align: center;
 }
 .space{
     text-align: right;
 }
 .attribution{
-    font-size: 9px;
+    font-size: 12px;
     text-align: right;
     padding-right: 10px;
 }
